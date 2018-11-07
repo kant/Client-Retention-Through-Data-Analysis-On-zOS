@@ -13,7 +13,7 @@ This demo is written in Python and includes many of the top Python libraries lik
 1. A data scientist interacts with a web UI.
 1. The web UI is the browser-based user interface for Jupyter Notebook.
 1. Jupyter Notebook is part of IzODA, running on z/OS.
-1. A VSAM dataset is accessed via a virtural table defined in Optimized Data Layer (ODL).
+1. A VSAM dataset is accessed via a virtual table defined in Optimized Data Layer (ODL).
 1. DSDBC queries ODL for the VSAM date.
 
 ## Included components
@@ -22,7 +22,7 @@ This demo is written in Python and includes many of the top Python libraries lik
 * [Conda](https://conda.io/docs/index.html): An open source package management system and environment management system.
 * [Jupyter Notebook](http://jupyter.org/): An open source web application that allows you to create and share documents that contain live code, equations, visualizations, and explanatory text.
 * [Pandas](https://pandas.pydata.org): An open source, BSD-licensed library that provides high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
-* [Scikit-learn](http://scikit-learn.org/stable/): A simple and efficient set of tools for data mining and data analysis.
+* [Scikit-learn](https://scikit-learn.org/stable/): A simple and efficient set of tools for data mining and data analysis.
 * [MatPlotLib](https://matplotlib.org): A Python 2D plotting library that produces publication quality figures in a variety of hard-copy formats and interactive environments across platforms.
 * [Seaborn](https://seaborn.pydata.org): A Python data visualization library that's based on MatPlotLib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 * [Numpy](http://www.numpy.org): The fundamental package for scientific computing with Python. It contains among other things:
@@ -40,7 +40,7 @@ This demo is written in Python and includes many of the top Python libraries lik
 Either run locally:
 
 1. [Clone the repo](#1-clone-the-repo)
-2. [Run Jupyter Notebook](#2-run-jupyter-notebooks)
+2. [Run Jupyter Notebooks](#2-run-jupyter-notebooks)
 
 ## Run locally
 
@@ -49,7 +49,7 @@ Either run locally:
 Clone the Client-Retention-Through-Data-Analysis-On-zOS locally. In a terminal, run:
 
 ```
-$ git clone git@github.com:IBM/Client-Retention-Through-Data-Analysis-On-zOS.git
+$ git clone this_needs_to_be_updated
 ```
 
 ### 2. Run Jupyter Notebook
@@ -63,7 +63,7 @@ The code included in this code pattern runs in a Jupyter Notebook.
    jupyter notebook
    ```
 
-* Navigate to the `notebooks` directory and open the notebook file named `client_retention_demo.ipynb` by clicking on it.
+* Navigate to the `notebooks` directory and open the notebook file named `credit_scoring.ipynb` by clicking on it.
 
 
 # Links
